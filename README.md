@@ -1,42 +1,83 @@
-# 👋 Hi, I'm Adarsh
+<h1 align="center">Hi 👋, I’m Adarsh Yadav</h1>
+<h3 align="center">Aspiring Software Engineer | Passionate about AI, Web Dev & Real-World Solutions</h3>
 
-🎓 Final Year Computer Science Student | 💡 Building AI + Web Projects  
-🌍 Based in India | 📬 adarshyadav1705@gmail.com
-
----
-
-## 🧠 Skills and Tech Stack
-- 💻 Languages: Python, JavaScript, C++
-- 🌐 Web: HTML, CSS, React, Node.js, Flask
-- 🧠 AI/ML: OpenCV, TensorFlow, Scikit-Learn, Keras
-- 🛢️ Databases: MySQL, MongoDB
-- ⚙️ Tools: Git, GitHub, VS Code, Postman
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
 ---
 
-## 🛠️ Featured Projects
-- **AI Attendance System** – Facial recognition using YOLO + ArcFace  
-- **HomeCure** – Health app with food calorie estimator (CNN + OpenCV)  
-- **Krishi Moolya** – Farmer market value prediction using ML  
-- **Portfolio Website** – React-based personal site with animations
+### 🔍 About Me
+- 🎓 Third Year B.Tech CS student at **Acropolis Institute, Indore**
+- 🤖 Building real-world projects in **AI**, **ML**, and **Full Stack Web Development**
+- 🌾 Creator of **Krishi Moolya** and **HomeCure**
+- ✨ Always learning and open to new opportunities
 
 ---
 
-## 📊 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh123&layout=compact&theme=radical)
+### 🚀 Skillset Overview
+
+#### 💻 Languages & Frameworks
+
+#### 🧠 AI/ML & Databases
+
+#### 🔧 Tools & Platforms
 
 ---
 
-## 🌱 Currently Learning
-- Deep Learning (CNN, NLP)
-- FastAPI and advanced Flask
-- Deployment with Docker & AWS
+### 📊 Skills Graph
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,mysql" />
+</p>
+
+<!-- You can also add a radar or bar chart using quickchart.io -->
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['C++','Python','React','Node','ML','MongoDB'],datasets:[{label:'Skill Level',data:[85,90,75,70,80,65]}]}}" alt="Skill Radar Chart" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
-- 📧 Email: adarsh@example.com
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+### 💼 Project Showcase
+
+| Project        | Description | Tech Stack | Timeline |
+|----------------|-------------|------------|----------|
+| **HomeCure**   | AI-based health assistant for medical insights, diet planning & emergencies | Python, Flask, OpenCV, CNN, HTML/CSS | Jan 2025 - Apr 2025 |
+| **Krishi Moolya** | AI platform to predict crop prices & give agri-support | React.js, Node.js, ML, MongoDB | Jul 2024 - Sep 2024 |
+
+---
+
+### 🧠 Certifications
+- ✅ HackerRank SQL (Basic)
+- ✅ NPTEL: Data Analytics with Python
+- ✅ NPTEL: Computer Networks and Internet Protocol
+
+---
+
+### 🌱 Currently Learning
+- Deep Learning with CNNs & RNNs  
+- Advanced Flask & FastAPI  
+- AWS Cloud & Deployment
+
+---
+
+### 📫 Contact Me
+
+- 📧 **adarshyadav8871@gmail.com**
+- 📱 **+91-7067878588**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-yadav-248a73279/)
+- 💻 [Coding Ninjas Profile](https://www.naukri.com/code360/profile/5bec622a-a09d-421d-a762-c34728eefcf9)
+
+---
+
+### 🏆 Achievements & Extras
+- 🏅 Winner: Ahilya Utsav Singing Competition (2018)  
+- 🥇 Top 10 in class with scholarship honors  
+- 📚 Merit Scholarship from Government of MP
+
+---
+
+### ⚡ Fun Fact
+> “I believe the best way to predict the future is to build it – one project at a time.”
+
+---
+
 
