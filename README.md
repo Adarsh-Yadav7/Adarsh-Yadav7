@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 🎓 Final Year B.Tech CSE Student at **Acropolis Institute, Indore**  
-📊 **Current CGPA**: `7.96`  
+📊 **Current CGPA**: `8.03`  
 💡 Passionate about combining AI/ML and Web Tech to solve real-world problems  
 💼 Currently working on:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 AI-based Attendance System  
