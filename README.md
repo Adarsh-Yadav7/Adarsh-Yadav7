@@ -148,12 +148,13 @@ Git, GitHub, Postman, VS Code, JIRA
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Yadav7&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adarsh-Yadav7&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Yadav7&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adarsh-Yadav7&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 
 ---
