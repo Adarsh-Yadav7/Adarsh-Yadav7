@@ -1,22 +1,20 @@
 <!-- Animated SVG Banner -->
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Hi%20👋%2C%20I'm%20Adarsh%20Yadav&height=100&color0=0f2027&color1=203a43&animation=wave" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Hi%20👋%2C%20I'm%20Adarsh%20Yadav&height=100&color0=ff7e5f&color1=feb47b&animation=wave" alt="Hi, I'm Adarsh Yadav" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Web+Developer;Open+Source+Enthusiast;AI+%7C+ML+%7C+System+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FCA311&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;AI+%7C+ML+%7C+Web+Dev+Enthusiast;Solving+Real+World+Problems" alt="Typing SVG" />
+</p>
+
+<!-- Animated Image -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="450" alt="Coding Animation" />
 </p>
 
 ---
 
-## 👨‍💻 Adarsh Yadav
-
-📍 Indore, India  
-📧 **adarshyadav1705@gmail.com** | 📞 **+91-7067878588**  
-🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-yadav-248a73279/) | [GitHub](https://github.com/Adarsh-Yadav7) | [LeetCode](https://leetcode.com/u/qbx7ZlztMM/)  
-
----
 
 ## 🚀 Personal Profile
 
@@ -30,35 +28,26 @@ Seeking **Software Engineer / Backend Developer** roles.
 Acropolis Institute of Technology & Research, Indore  
 **CGPA:** `8.03` (2022 – 2026)
 
+
 ---
 
-## 🛠️ Technical Skills
-
-**Programming Languages**  
-C++, Python, Java, JavaScript  
-
-**Backend & Web**  
-Spring Boot, REST APIs, HTML, CSS, JavaScript  
-
-**Databases**  
-MySQL, MongoDB  
-
-**AI & ML**  
-Machine Learning, Deep Learning, LLMs, LangChain, Prompt Engineering  
-
-**Core CS**  
-DSA, OOP, DBMS, Computer Networks  
-
-**Tools**  
-Git, GitHub, Postman, VS Code, JIRA  
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,spring,react,nodejs,mysql,mongodb,git,github,postman,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+### 📊 GitHub Activity
+
+- ⭐ 39+ repositories
+- 🔥 Active contributor
+- 🧠 Focused on Backend, ML & Open Source
+
+---
+
+## 💼 Projects
 
 ### 🔹 **AquaMind – AI-Driven Unified Data Platform**  
 *Smart India Hackathon 2025*  
@@ -91,34 +80,6 @@ Git, GitHub, Postman, VS Code, JIRA
 
 ---
 
-### 🔹 **HomeCure – AI Health Assistant**  
-- AI-based medical assistance platform  
-- Disease insights, diet planning & emergency support  
-- Image-based analysis using CNN & OpenCV  
-
-**Tech:** Python, Flask, OpenCV, CNN  
-
----
-
-### 🔹 **AI Attendance System**  
-- Real-time face recognition attendance system  
-- YOLOv8 for detection, ArcFace for recognition  
-- Automated attendance storage with MySQL
-- 
-**Tech:** Python, YOLOv8, ArcFace, MySQL  
-
----
-
-## 🧠 Experience
-
-### **Machine Learning Intern** – Cognifyz Technologies  
-*Apr 2021 – May 2022*  
-- Built ML models for restaurant rating prediction (**R² = 0.96**)  
-- Cuisine classification with **91.9% accuracy**  
-- Designed recommendation engines & analytics dashboards  
-
----
-
 ## 🏆 Achievements & Recognition
 
 - 🥇 **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**  
@@ -138,27 +99,29 @@ Git, GitHub, Postman, VS Code, JIRA
 
 ---
 
-## 🏅 Scholarships
+## 📫 Connect with Me
 
-- 💰 ₹25,000 **Merit Scholarship** – Government of Madhya Pradesh  
-- 🏆 **Top 10 in B.Tech Batch**  
-
----
-
-## 📊 GitHub Highlights
-- ⭐ 39+ repositories
-- 🧠 450+ DSA problems solved
-- 🧑‍💻 Active in Backend, AI/ML & Web Development
-- 🔧 Regular GitHub contributor
-
+<p align="center">
+  <a href="mailto:adarshyadav8871@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/adarsh-yadav-248a73279/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.naukri.com/code360/profile/5bec622a-a09d-421d-a762-c34728eefcf9">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 🔥 Fun Fact
-> *“The best way to predict the future is to build it — one system at a time.”*
 
-<!-- Footer -->
+> *“The best way to predict the future is to build it – one project at a time.”*
+
+---
+
+<!-- Animated Thank You -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF3CAC&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+awesome+together+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF3CAC&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Show+some+%E2%9D%A4%EF%B8%8F+by+starring+my+repos!" alt="Thanks Typing Animation" />
 </p>
-
