@@ -14,7 +14,7 @@
 
 📍 Indore, India  
 📧 **adarshyadav1705@gmail.com** | 📞 **+91-7067878588**  
-🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-yadav-248a73279/) | [GitHub](https://github.com/Adarsh-Yadav7) | [LeetCode](https://leetcode.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-yadav-248a73279/) | [GitHub](https://github.com/Adarsh-Yadav7) | [LeetCode](https://leetcode.com/u/qbx7ZlztMM/)  
 
 ---
 
