@@ -145,11 +145,11 @@ Git, GitHub, Postman, VS Code, JIRA
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adarsh-Yadav7&layout=compact&langs_count=8" />
-</p>
+## 📊 GitHub Highlights
+- ⭐ 39+ repositories
+- 🧠 450+ DSA problems solved
+- 🧑‍💻 Active in Backend, AI/ML & Web Development
+- 🔧 Regular GitHub contributor
 
 
 ---
