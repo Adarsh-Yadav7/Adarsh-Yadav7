@@ -103,8 +103,8 @@ Git, GitHub, Postman, VS Code, JIRA
 ### 🔹 **AI Attendance System**  
 - Real-time face recognition attendance system  
 - YOLOv8 for detection, ArcFace for recognition  
-- Automated attendance storage with MySQL  
-
+- Automated attendance storage with MySQL
+- 
 **Tech:** Python, YOLOv8, ArcFace, MySQL  
 
 ---
@@ -148,12 +148,13 @@ Git, GitHub, Postman, VS Code, JIRA
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Yadav7&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Yadav7&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Yadav7&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Yadav7&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
+
 
 ---
 
@@ -162,5 +163,6 @@ Git, GitHub, Postman, VS Code, JIRA
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF3CAC&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Feel+free+to+connect+or+collaborate+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF3CAC&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+awesome+together+🚀" />
 </p>
+
